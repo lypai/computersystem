@@ -1,0 +1,6 @@
+D:\учеба\3курс2семестр\ComputerSystems\Lab2\Lab2\Lab2-1\bin\Debug\Lab2-1.exe.config
+D:\учеба\3курс2семестр\ComputerSystems\Lab2\Lab2\Lab2-1\bin\Debug\Lab2-1.exe
+D:\учеба\3курс2семестр\ComputerSystems\Lab2\Lab2\Lab2-1\bin\Debug\Lab2-1.pdb
+D:\учеба\3курс2семестр\ComputerSystems\Lab2\Lab2\Lab2-1\obj\Debug\Lab2-1.csprojResolveAssemblyReference.cache
+D:\учеба\3курс2семестр\ComputerSystems\Lab2\Lab2\Lab2-1\obj\Debug\Lab2-1.exe
+D:\учеба\3курс2семестр\ComputerSystems\Lab2\Lab2\Lab2-1\obj\Debug\Lab2-1.pdb
